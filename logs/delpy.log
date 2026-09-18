@@ -1,0 +1,1 @@
+21:52:23 ALERT delpy: signature=Credit Card sensitivity=HIGH host=acme01 srcip=192.168.1.32 file=test-card.txt
