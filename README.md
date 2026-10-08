@@ -13,3 +13,8 @@ Console#2 execute:
 
 ## This will generate an alert:
 > 21:52:23 ALERT delpy: signature=Credit Card sensitivity=HIGH host=acme001 srcip=192.168.1.32 file=test-card.txt
+
+### ACME.LAB &trade;
+Delpy is part of the cyber playground ACME.LAB's tool series as one of NEST SIEM components.<br/><br/>
+<img width="942" height="442" alt="delpy" src="https://github.com/user-attachments/assets/84a6187a-6c24-404a-a652-e915ca30b3ce" /><br/><br/>
+
